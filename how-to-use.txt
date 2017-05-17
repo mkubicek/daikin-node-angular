@@ -1,0 +1,9 @@
+How to use
+----------
+
+Run "npm install" inside this project folder to install all dependencies.
+
+Install nodemon "npm install -g nodemon"
+
+Run "ng start" to run the server side, monitor for changes and restart.
+Run "ng run build" to build cliend side angular and rebuild when changes are detected.
